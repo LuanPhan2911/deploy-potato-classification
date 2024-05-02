@@ -74,7 +74,7 @@ export default function Home() {
       <div className="navbar">
         <div className="container-fluid">
           <div className="navbar-brand text-primary fw-bolder">
-            Potato Disease ClassNameification
+            Potato Disease Classification
           </div>
         </div>
       </div>
